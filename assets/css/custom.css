@@ -1,1 +1,5 @@
 /* Add here all your css styles (customizations) */
+.album-block {
+  padding: 250px 0 75px;
+  background: url(../img/polys/bg-music-simple.jpg) no-repeat fixed center / cover;
+}

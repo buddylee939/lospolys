@@ -2,6 +2,26 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19137",
 "files": {
+	"\/assets\/audioplayer\/APlayer.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/audioplayer\/APlayer.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/audioplayer\/APlayer.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/audioplayer\/APlayer.min.js",
+		"outputAbbreviatedPath": "\/assets\/audioplayer\/min\/APlayer.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/assets\/css\/app.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -934,6 +954,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/polys\/bg-music-simple-blur.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63366,
+		"inputAbbreviatedPath": "\/assets\/img\/polys\/bg-music-simple-blur.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/polys\/bg-music-simple-blur.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/polys\/bg-music-simple.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -996,6 +1027,72 @@
 		"initialSize": 2580,
 		"inputAbbreviatedPath": "\/assets\/img\/polys\/logo.png",
 		"outputAbbreviatedPath": "\/assets\/img\/polys\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/polys\/Merch01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13098,
+		"inputAbbreviatedPath": "\/assets\/img\/polys\/Merch01.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/polys\/Merch01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/polys\/Merch02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15300,
+		"inputAbbreviatedPath": "\/assets\/img\/polys\/Merch02.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/polys\/Merch02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/polys\/Merch03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14731,
+		"inputAbbreviatedPath": "\/assets\/img\/polys\/Merch03.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/polys\/Merch03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/polys\/Merch04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12429,
+		"inputAbbreviatedPath": "\/assets\/img\/polys\/Merch04.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/polys\/Merch04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/polys\/Merch05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14297,
+		"inputAbbreviatedPath": "\/assets\/img\/polys\/Merch05.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/polys\/Merch05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/polys\/Merch06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13250,
+		"inputAbbreviatedPath": "\/assets\/img\/polys\/Merch06.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/polys\/Merch06.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1248,6 +1345,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/forms\/review.js",
 		"outputAbbreviatedPath": "\/assets\/js\/forms\/min\/review-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/min\/one.app-min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/min\/one.app-min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/min\/one.app-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

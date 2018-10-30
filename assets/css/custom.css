@@ -1,5 +1,27 @@
 /* Add here all your css styles (customizations) */
 .album-block {
-  padding: 250px 0 75px;
-  background: url(../img/polys/bg-music-simple.jpg) no-repeat fixed center / cover;
+  padding: 100px 0 100px;
+  background: url(../img/polys/bg-music-simple-blur.jpg) no-repeat fixed center / cover;
+}
+
+.album-text h2 {
+  color: white;
+  margin-bottom: 50px;
+  text-shadow: 1px 1px 4px black;
+  letter-spacing: 10px;
+}
+
+.album-text h2:before, .album-text h2:after {
+    content: ' ';
+    /*width: 70%;*/
+    display: none;
+    position: absolute;
+    border-width: 1px;
+    border-color: white;
+}
+
+.child-name h4 {
+  color: white;
+  margin-top: 30px;
+  text-shadow: 1px 1px black;
 }
